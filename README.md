@@ -20,11 +20,12 @@
 ## To List
 <details>
 <summary>⏳青提⏳</summary>
-  
-
 📅一款轻量化的日程提醒应用，可以更加便捷的添加事件。
 </details>
-
+<details>
+<summary>🚡DQ互通BOT🚡</summary>
+🤖检测QQ频道关键词，同步到Discord服务器进行进一步操作
+</details>
 ## Contect Me
 - Email: ChenUmoon@outlook.com
 ##
