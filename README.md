@@ -26,6 +26,7 @@
 <summary>🚡DQ互通BOT🚡</summary>
 🤖检测QQ频道关键词，同步到Discord服务器进行进一步操作
 </details>
+
 ## Contect Me
 - Email: ChenUmoon@outlook.com
 ##
