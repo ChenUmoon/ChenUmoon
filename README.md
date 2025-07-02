@@ -28,7 +28,7 @@
 </details>
 
 ## Contect Me
-- Just MD
+- Just DM
 ##
 # <p align="center"> 於穆不已
 
